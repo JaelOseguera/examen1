@@ -1,4 +1,4 @@
-//APP
+
 
 import './App.css';
 import Alumno from './Componente/Alumno';

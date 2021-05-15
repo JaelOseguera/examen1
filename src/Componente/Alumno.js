@@ -1,5 +1,3 @@
-//ALUMNO
-
 import React from "react";
 
 
